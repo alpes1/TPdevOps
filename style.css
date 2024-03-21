@@ -25,6 +25,18 @@
   box-shadow: 3px 0px 5px rgba(0,0,0,.3);
   position:absolute;
   overflow:auto;
+  
+  min-height: 500px;
+  background-color: rgba(30,30,30,0.7);
+  box-shadow: 3px 0px 5px rgba(0,0,0,.3);
+  position:absolute;
+  overflow:auto;
+  
+  min-height: 500px;
+  background-color: rgba(30,30,30,0.7);
+  box-shadow: 3px 0px 5px rgba(0,0,0,.3);
+  position:absolute;
+  overflow:auto;
 }
 
 #menu .menu-button {
